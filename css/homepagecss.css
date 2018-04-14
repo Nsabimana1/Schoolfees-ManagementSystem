@@ -1,0 +1,52 @@
+body{
+/*    background-color: burlywood;*/
+    scroll-behavior: auto
+}
+.wholepage{
+    margin: 10% 0% 0% 0%;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 7%;
+    background-color: antiquewhite;
+    color: white;
+    text-align: center;
+}
+
+.card1{
+    height: 200%;
+    padding: 10%;
+    border-radius: 5px;
+}
+
+.card2{
+    height: 200%;
+    padding: 8%;
+    border-radius: 5px;
+}
+
+.card3{
+    height: 200%;
+    padding: 10%;
+    border-radius: 5px;
+    background-color: grey;
+}
+
+.input_text_size{
+  width: 40%;
+}
+
+/*.update_info{
+  height: 50%;
+  width: 30%;
+  background-color: black;
+  border:solid blue 2px;
+}*/
+
+theader{
+    font-weight: 500;
+}

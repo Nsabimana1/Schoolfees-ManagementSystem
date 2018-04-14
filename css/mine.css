@@ -1,0 +1,37 @@
+body{
+    background-image: url("../images/background.jpg");
+/*    background-repeat: no-repeat;*/
+}
+
+.top{
+   margin-top: 10px;
+   margin-left: 5px;
+ }
+
+.imge{
+    height: 40%;
+    width: 60%;
+}
+
+.inputsearch{
+    margin: 0px 0px 0px -50px;
+    width: 400%;
+    border-radius: 0px;
+    float: left;
+}
+.button-search{
+    height: 10%;
+    width: 12%;
+    margin: 0px 0px 0px 350px;
+}
+.lefticon{
+/*    float: left;*/
+    float: right;
+    font-size: 20px;
+    color: aliceblue;
+    margin: 0px 0px 0px 0px;
+}
+.profile{
+    width: 35px;
+    height: 35px;
+}
